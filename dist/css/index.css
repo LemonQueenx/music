@@ -142,25 +142,25 @@ a {
   background-size: 20px 20px;
 }
 .wrapper .song-control .like-btn {
-  background-image: url(../img/icon-like.png);
+  background-image: url(/music/dist/img/icon-like.png);
 }
 .wrapper .song-control .like-btn.liked {
-  background-image: url(/img/icon-like-solid.png);
+  background-image: url(/music/dist/img/icon-like-solid.png);
 }
 .wrapper .song-control .prev-btn {
-  background-image: url(../img/icon-prev.png);
+  background-image: url(/music/dist/img/icon-prev.png);
 }
 .wrapper .song-control .play-btn {
-  background-image: url(../img/icon-play.png);
+  background-image: url(/music/dist/img/icon-play.png);
 }
 .wrapper .song-control .play-btn.playing {
-  background-image: url(/img/icon-pause.png);
+  background-image: url(/music/dist/img/icon-pause.png);
 }
 .wrapper .song-control .next-btn {
-  background-image: url(../img/icon-next.png);
+  background-image: url(/music/dist/img/icon-next.png);
 }
 .wrapper .song-control .list-btn {
-  background-image: url(../img/icon-list.png);
+  background-image: url(/music/dist/img/icon-list.png);
 }
 .play-list {
   position: fixed;
