@@ -145,7 +145,7 @@ a {
   background-image: url(../img/icon-like.png);
 }
 .wrapper .song-control .like-btn.liked {
-  background-image: url(../img/icon-like-solid.png);
+  background-image: url(/img/icon-like-solid.png);
 }
 .wrapper .song-control .prev-btn {
   background-image: url(../img/icon-prev.png);
@@ -154,7 +154,7 @@ a {
   background-image: url(../img/icon-play.png);
 }
 .wrapper .song-control .play-btn.playing {
-  background-image: url(../img/img/icon-pause.png);
+  background-image: url(/img/icon-pause.png);
 }
 .wrapper .song-control .next-btn {
   background-image: url(../img/icon-next.png);

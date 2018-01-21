@@ -27,15 +27,3 @@
          renderIsLike(data.isLike);
      }
 }(window.Zepto,window.player||(window.player = {})))
-
-
-
-
-
-
-
-
-
-
-
-
