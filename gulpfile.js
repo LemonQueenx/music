@@ -20,7 +20,7 @@ gulp.task("less",function(){
 //开服务器
 gulp.task("server",function(){
     connect.server({
-        port:8090, //不写的时候默认为8080  写的话可以写8090，写其他的也可以
+        port:8080, //不写的时候默认为8080  写的话可以写8090，写其他的也可以
         root:"./dist",
         livereload:{
             port:35728
